@@ -159,7 +159,7 @@ The CATALYST architecture is an extension of:
 
 If you use this work, please cite:
 ```bibtex
-@misc{catalyst_gene_2025,
+@misc{catalyst_gene_2026,
   title   = {CATALYST-Gene: BiLSTM + Bahdanau Attention for
              Multi-Cancer RNA-Seq Classification},
   author  = {[Salman Jahan]},
