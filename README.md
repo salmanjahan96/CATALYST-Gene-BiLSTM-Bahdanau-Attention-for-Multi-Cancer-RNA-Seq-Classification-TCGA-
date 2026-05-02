@@ -162,9 +162,9 @@ If you use this work, please cite:
 @misc{catalyst_gene_2025,
   title   = {CATALYST-Gene: BiLSTM + Bahdanau Attention for
              Multi-Cancer RNA-Seq Classification},
-  author  = {[Your Name]},
-  year    = {2025},
-  url     = {https://github.com/<your-username>/CATALYST-Gene}
+  author  = {[Salman Jahan]},
+  year    = {2026},
+  url     = {https://github.com/<salmanjahan96>/CATALYST-Gene}
 }
 ```
 
