@@ -20,9 +20,10 @@ The model is benchmarked against a standard Baseline LSTM model.
 
 ---
 
-##  Dataset
+## Dataset
 
-- **Source:** [Gene Expression Cancer RNA-Seq – Kaggle](https://www.kaggle.com/datasets/samdemharter/multiclass-cancer-dataset)
+- **Source:** [Gene Expression Cancer RNA-Seq levels – Kaggle](https://www.kaggle.com/dsv/16063726)
+- **DOI:** https://doi.org/10.34740/kaggle/dsv/16063726
 - **Samples:** 801 patients
 - **Features:** 20,531 genes → top 1,000 selected by variance
 - **Target Classes:** BRCA, KIRC, COAD, LUAD, PRAD
